@@ -1,0 +1,18 @@
+.login-container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  padding: 2rem;
+  width: 35%;
+  border-radius:2px;
+  /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); */
+  background:none;
+}
+.card .btn-primary{
+  background-color: #fbdd18;
+  border: 0;
+  color: black;
+}
